@@ -1,8 +1,6 @@
-import { useParams } from 'react-router-dom'
 
 const ShowDetail = ({show}) => {
 
-    const { id } = useParams()
 
     return (
         <div className="px-10 my-4 py-6 bg-gray-800 rounded-lg shadow-md">

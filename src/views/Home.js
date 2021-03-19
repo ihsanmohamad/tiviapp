@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react'
+// import { useState, useEffect } from 'react'
 
 import ShowsList from '../components/ShowsList'
 
-import axios from 'axios'
+// import axios from 'axios'
 
 const Home = () => {
 
